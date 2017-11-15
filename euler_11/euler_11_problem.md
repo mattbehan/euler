@@ -1,6 +1,7 @@
 In the 20×20 grid below, four numbers along a diagonal line have been marked in red.
 
-![alt text](https://github.com/mattbehan/euler/tree/master/images/euler_11.png "20x20 grid")
+![20x20 grid]
+(https://github.com/mattbehan/euler/tree/master/images/euler_11.png)
 
 The product of these numbers is 26 × 63 × 78 × 14 = 1788696.
 
